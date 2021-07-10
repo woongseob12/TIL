@@ -12,13 +12,13 @@ Decryption: 암호문을 복호 키를 사용하여 원래의 정보로 복원�
 
 **암호화 종류**
 
-![image](https://user-images.githubusercontent.com/55429912/125158287-02f1f280-e1ab-11eb-919a-aaee19f4cedf.png)
+![image](https://user-images.githubusercontent.com/55429912/125164433-24fc6c80-e1cd-11eb-87df-f58b626ee45e.png)
 
 
 
 1. **대칭키**(비밀키)
 
-![image](https://user-images.githubusercontent.com/55429912/125158882-c627fa80-e1ae-11eb-8590-88c9131711f9.png)
+![image](https://user-images.githubusercontent.com/55429912/125164219-15305880-e1cc-11eb-8553-f029b16901b8.png)
 
    - 암호화 키 == 복호화 키
 
@@ -34,7 +34,7 @@ Decryption: 암호문을 복호 키를 사용하여 원래의 정보로 복원�
 
 2. **비대칭키**(공개키)
 
-![image](https://user-images.githubusercontent.com/55429912/125158906-f7082f80-e1ae-11eb-9d4c-01d61fee4223.png)
+![image](https://user-images.githubusercontent.com/55429912/125164282-63455c00-e1cc-11eb-8b5d-6a6fbb79ceaa.png)
 
    - 암호화 키 != 복호화 키
    - 암호화를 하면 하나의 키쌍(A, B) 생성
