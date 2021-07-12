@@ -37,7 +37,7 @@
 
 - 성능
 
-  - **Incremental Builds: 빌드 실행 중 마지막 빌드 호출 이후에 task의 입력, 출력 혹은 구현이 변경 됐는지 확인. 최신 상태로 간주하지 않는다면 빌드는 실행되지 않음
+  - **Incremental Builds**: 빌드 실행 중 마지막 빌드 호출 이후에 task의 입력, 출력 혹은 구현이 변경 됐는지 확인. 최신 상태로 간주하지 않는다면 빌드는 실행되지 않음
   - **Build Cache**: task가 이미 다른 컴퓨터에서 실행된 경우 Gradle은 로컬 실행을 건너뛰고 빌드 캐시로부터 작업의 결과물을 가져올 수 있음
   - **Gradle Daemon**: 빌드하는 인스턴스를 유지, 빌드가 끝난뒤에도 사라지지 않고 백그라운드에서 대기
 
@@ -74,7 +74,7 @@
 
     - repositories: 라이브러리들을 가져올 레파지토리 설정 
 
-      ![image-20210712195843238](C:\Users\woong\AppData\Roaming\Typora\typora-user-images\image-20210712195843238.png)
+      ![image](https://user-images.githubusercontent.com/55429912/125281982-d62c0f80-e351-11eb-893c-7406dd9a6728.png)
 
     - dependencies: 사용할 라이브러리 설정
 
